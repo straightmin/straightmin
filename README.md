@@ -12,6 +12,7 @@
 ## Activity
 - 2020 선문대학교 SW알고리즘 경진대회 은상
 - 2021 선문대학교 SW알고리즘 경진대회 대상
+- UCPC 2021 참여
 - ICPC 2021 참여
 
 # Solved.ac Stats
