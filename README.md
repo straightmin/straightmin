@@ -4,7 +4,6 @@
 - 🤔 
 
 ## Project
-- [프로젝트명(기간)](링크)
 
 ## Activity
 - UCPC 2021 참여
